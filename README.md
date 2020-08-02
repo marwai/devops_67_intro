@@ -127,3 +127,7 @@ Tests - make sure that whatever you are creating is itself a standardised enviro
 
 ## Node
 - can mean an instance, a machine but in this case it means JS
+
+## ```Typical Vagrant Questions```
+1. What is Vagrant? 
+Vagrant is an open-source software productfor building and maintaining portable 
